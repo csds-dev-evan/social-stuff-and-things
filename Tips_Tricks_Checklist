@@ -1,0 +1,28 @@
+Social Engineering Checklist::
+
+1. Escorted
+2. Scan/record Government ID and Badge
+3. Visitor Log
+4. Visitor Badge
+5. Viewable Workstations
+6. Clean Desk/PII Info Out
+7. Allow Access to Computer With Logged In Account 
+8. Reverse Shells
+9. NTLM Hash Stealing
+
+Tips/Tricks/Techniques::
+-Name dropping
+-Already "have key card/fob"
+-Show bottom of social auth form with signature
+-Spoofed phone calls and emails
+-Going to bathroom to break escort
+-Staying under desk "checking" power surge for unusual amount of time
+
+Approaches::
+-Sneaking in/Tailgaiting
+-Spoofing (Phone or Email)
+-Showing Fake Documents
+-Approach Teller First
+-Approach Manager First
+-POC Be Available and Also Not Be Available
+-Supply POC's "Cell Number" -- Actually A spoof Techn
