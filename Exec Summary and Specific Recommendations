@@ -1,0 +1,20 @@
+##Executive Summmary##
+<client> completed a comprehensive Onsite Social Engineering engagement of the operational implementation of its Information Security policies and procedures. The purpose of this piece of the assessment was to examine how organizations employees would respond to an unexpected onsite visit from a visitor attempting to gain unauthorized access to core-information systems equipment, sensitive documents, and confidential information resources. The terms of the onsite social engineering engagement by <company> were arranged and agreed upon with <client>. The following sites were tested for this engagement: 
+
+<location 1>
+<location 2>
+<location 3>
+<location 4>
+
+The ISA visited each branch posing as an ISP provider troubleshooting network connectivity issues. The ISA was to arrive at the branch, introduce himself as an individual sent from the facilities department to perform an inspection for the client contact, and then attempt to gain unescorted access to secure areas like networking equipment closets, back rooms, vaults, and any identifiable information that is disclosed in public areas like the lobby and offices. If the branches reached out to the facilities department, they would coordinate authorization for the visit to further test visitor escorting procedures.
+
+
+
+##Specific Rec's##
+The following issues were  identified across all locations. Branch specific recommendations can be found in the body of this section:
+
+•	No Visitor Escort Policy Enforced – At one location, the ISA was not escorted throughout the premises and was able to roam freely inside the buildings. In one case, the analyst was given unsupervised access to employee workstations. While unsupervised the analyst was able to log into the employee workstation, and access multiple share drives with sensitive information. This behavior presents risk of data leakage and information disclosure. Visitors to the organization that have been granted access should always be monitored and escorted by authorized personnel . Allowing an individual to travel unescorted could allow a social engineer access to workstations, documentation left on printers and desks, mail, and other sensitive equipment and/or documentation, or even currency. Additional controls should be in place to detect and prevent this sort of malicious activity. TraceSecurity recommends training users on the dangers of an unescorted visitor in the building, and how to either approach the individual(s) for verification or alert a member of the management team. In addition, creating service accounts for vendors accessing workstations will reduce risk associated with allowing visitors to use employee accounts unsupervised.
+
+•	No Visitor Documentation or Logging – All locations did not require the ISA to fill out any documentation upon arrival. Authorized visitors should be documented with a logbook that collects entry and exit times, purpose of visit, responsible party at the organizations, company represented, and areas accessed during the visit. A visitor badge should also be dawned by the individual to clearly identify and classify the visitor to other members of the organization. TraceSecurity recommends implementing a centralized logging system to track the entry/exit, purpose, organization represented, point of contact during the escort, and areas accessed during the visit.  
+
+•	No Identification Procedures – At all locations, the ISA was not required to provide proof of identity. Proof of identity should be verified, and cross examined with a government issued ID. Company identification should be collaborated and researched prior to granting visitors authorization to ensure the individual(s) is legitimate. TraceSecurity recommends implementing a vendor/visitor management policy with documentation and escort procedures. Vendor/visitor management policies should include authorized personnel listings and individual verification of each representative of the organization prior to onsite meetings, inspections, or visits.
